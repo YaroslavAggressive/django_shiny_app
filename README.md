@@ -8,4 +8,4 @@ Application allows you to keep a hospital record of diagnoses made to patients f
 
 # User interface of client app
 
-![](readme_src/ui_pic.JPG)
+![](medical_registration/readme_src/ui_pic.JPG)
