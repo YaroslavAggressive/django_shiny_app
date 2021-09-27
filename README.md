@@ -12,13 +12,13 @@ Application allows you to keep a hospital record of diagnoses made to patients f
 
 # Tech stack
 
-asgiref
-Django
-djangorestframework
-psycopg2
-Pygments
-pytz
-sqlparse
++ asgiref
++ Django
++ djangorestframework
++ psycopg2
++ Pygments
++ pytz
++ sqlparse
 
 # Tools
 
