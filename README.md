@@ -8,4 +8,18 @@ Application allows you to keep a hospital record of diagnoses made to patients f
 
 # User interface of client app
 
-![](readme_src/ui_pic.JPG)
+![](medical_registration/readme_src/ui_pic.JPG)
+
+# Tech stack
+
++ asgiref
++ Django
++ djangorestframework
++ psycopg2
++ Pygments
++ pytz
++ sqlparse
+
+# Tools
+
+[flake8](https://pypi.org/project/flake8/)
